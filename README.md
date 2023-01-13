@@ -1,0 +1,2 @@
+# components
+ practica del video
